@@ -1,18 +1,28 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata in this file."
-title: "BUSI-BUS: Breast Ultrasound Lesion Classification with XAI (Pointing Game)"
+title: "Optuna-Optimized Token-Mixing vs. Convolutional Models for Explainable Breast-Lesion Classification in Ultrasound: An Integrated-Gradients and Pointing-Game Study"
 authors:
-  - family-names: "YOUR_LAST_NAME"
-    given-names: "YOUR_FIRST_NAME"
-    affiliation: "YOUR_INSTITUTION"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-version: 1.0.0
+  - family-names: "Sanchez"
+    given-names: "Valesska"
+    affiliation: "Yachay Tech University"
+    email: "valesska.sanchez@yachaytech.edu.ec"
+  - family-names: "Arteaga"
+    given-names: "Sheyla"
+    affiliation: "Yachay Tech University"
+    email: "sheyla.arteaga@yachaytech.edu.ec"
+  - family-names: "Muñoz"
+    given-names: "Harol"
+    affiliation: "Yachay Tech University"
+    email: "harol.munoz@yachaytech.edu.ec"
+version: 1.0.1
 date-released: 2026-07-25
-repository-code: "https://github.com/YOUR_USERNAME/busi-bus-classification-xai"
+repository-code: "https://github.com/TU_USUARIO/TU_REPO"
 license: MIT
 keywords:
   - breast ultrasound
   - deep learning
   - explainable AI
   - pointing game
+  - integrated gradients
   - medical imaging
+EOF
