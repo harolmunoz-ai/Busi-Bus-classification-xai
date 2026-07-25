@@ -5,18 +5,15 @@ authors:
   - family-names: "Sanchez"
     given-names: "Valesska"
     affiliation: "Yachay Tech University"
-    email: "valesska.sanchez@yachaytech.edu.ec"
   - family-names: "Arteaga"
     given-names: "Sheyla"
     affiliation: "Yachay Tech University"
-    email: "sheyla.arteaga@yachaytech.edu.ec"
   - family-names: "Munoz"
     given-names: "Harol"
     affiliation: "Yachay Tech University"
-    email: "harol.munoz@yachaytech.edu.ec"
-version: 1.0.1
+version: 1.0.0
 date-released: 2026-07-25
-repository-code: "https://github.com/TU_USUARIO/TU_REPO"
+url: "https://github.com/harolmunoz-ai/Busi-Bus-classification-xai"
 license: MIT
 keywords:
   - breast ultrasound
