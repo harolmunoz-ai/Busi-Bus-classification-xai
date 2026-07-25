@@ -1,0 +1,13 @@
+torch
+torchvision
+timm
+scikit-learn
+optuna
+opencv-python-headless
+huggingface_hub
+scipy
+numpy
+pandas
+seaborn
+matplotlib
+Pillow

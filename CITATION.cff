@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata in this file."
+title: "BUSI-BUS: Breast Ultrasound Lesion Classification with XAI (Pointing Game)"
+authors:
+  - family-names: "YOUR_LAST_NAME"
+    given-names: "YOUR_FIRST_NAME"
+    affiliation: "YOUR_INSTITUTION"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: 1.0.0
+date-released: 2026-07-25
+repository-code: "https://github.com/YOUR_USERNAME/busi-bus-classification-xai"
+license: MIT
+keywords:
+  - breast ultrasound
+  - deep learning
+  - explainable AI
+  - pointing game
+  - medical imaging
