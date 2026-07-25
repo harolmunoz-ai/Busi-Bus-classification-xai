@@ -10,7 +10,7 @@ authors:
     given-names: "Sheyla"
     affiliation: "Yachay Tech University"
     email: "sheyla.arteaga@yachaytech.edu.ec"
-  - family-names: "Muñoz"
+  - family-names: "Munoz"
     given-names: "Harol"
     affiliation: "Yachay Tech University"
     email: "harol.munoz@yachaytech.edu.ec"
@@ -25,4 +25,3 @@ keywords:
   - pointing game
   - integrated gradients
   - medical imaging
-EOF
