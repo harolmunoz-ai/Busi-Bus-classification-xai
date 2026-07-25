@@ -11,9 +11,10 @@ authors:
   - family-names: "Munoz"
     given-names: "Harol"
     affiliation: "Yachay Tech University"
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-07-25
 url: "https://github.com/harolmunoz-ai/Busi-Bus-classification-xai"
+doi: 10.5281/zenodo.21576972
 license: MIT
 keywords:
   - breast ultrasound
