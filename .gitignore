@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific: generated results, checkpoints, datasets
+results/
+kaggle/working/
+*.pth
+*.pt
+*.ckpt
+Dataset/
+reproducibility_info.json
+environment_summary.csv
+
+# Kaggle credentials
+kaggle.json
